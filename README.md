@@ -1,2 +1,2 @@
 # hello-world
-The primordial exploration of GitHub
+The primordial exploration of GitHub.
